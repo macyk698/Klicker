@@ -1,0 +1,11 @@
+D:\Maciej Skopek\Klicker\bin\Debug\Klicker.exe.config
+D:\Maciej Skopek\Klicker\bin\Debug\Klicker.exe
+D:\Maciej Skopek\Klicker\bin\Debug\Klicker.pdb
+D:\Maciej Skopek\Klicker\obj\Debug\Klicker.csproj.AssemblyReference.cache
+D:\Maciej Skopek\Klicker\obj\Debug\Klicker.csproj.SuggestedBindingRedirects.cache
+D:\Maciej Skopek\Klicker\obj\Debug\Klicker.Form1.resources
+D:\Maciej Skopek\Klicker\obj\Debug\Klicker.Properties.Resources.resources
+D:\Maciej Skopek\Klicker\obj\Debug\Klicker.csproj.GenerateResource.cache
+D:\Maciej Skopek\Klicker\obj\Debug\Klicker.csproj.CoreCompileInputs.cache
+D:\Maciej Skopek\Klicker\obj\Debug\Klicker.exe
+D:\Maciej Skopek\Klicker\obj\Debug\Klicker.pdb
